@@ -1,0 +1,14 @@
+{
+    "name": "Python Dev Container",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+    },
+    "extenions": [
+        "ms-python.python"
+    ],
+    "postCreateCommand": "",
+    "remoteUser": "vscode"
+}
